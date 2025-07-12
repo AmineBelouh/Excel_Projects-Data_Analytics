@@ -1,6 +1,6 @@
 # My Excel Data Analytics Projects
 
-This repo contains my Excel projects I've done studying Excel from Luke Barousse's Excel for Data Analytics course
+This repo contains the projects I completed while studying Excel through Luke Barousse's Excel for Data Analytics course.
 
 ## Salary Dashboard
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
@@ -10,7 +10,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 ![1_Salary_Dashboard.png](/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Salary Analysis
-As a job seeker, I've always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+As a job seeker, I set out to explore the most optimal jobs and in-demand skills in the data science market, aiming to understand what top employers look for and how to secure higher pay.
 
 [Checkout my work here](Project_2-Analysis)
 
