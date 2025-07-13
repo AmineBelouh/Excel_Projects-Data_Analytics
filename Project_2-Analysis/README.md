@@ -3,7 +3,7 @@
 
 ## Introduction
 
-As a job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+As a job seeker, I set out to explore the most optimal jobs and in-demand skills in the data science market, aiming to understand what top employers look for and how to secure higher pay.
 
 ### Questions to Analyze
 
@@ -159,7 +159,7 @@ It includes detailed information on:
 - I created a combo PivotChart to plot median salary and skill likelihood (%) from my PivotTable.
     - 🪙 **Primary Axis:** Median Salary (as a Clustered Column)
     - 👍 **Secondary Axis:** Skill Likelihood (as a Line with Markers)
-- To customize the chart, I added a title axis title, removed the lines (skill likelihood), and changed the markers to diamonds.
+- To customize the chart, I added a title axis, removed the lines (skill likelihood), and changed the markers to diamonds.
 
 ### 📊 Analysis
 
